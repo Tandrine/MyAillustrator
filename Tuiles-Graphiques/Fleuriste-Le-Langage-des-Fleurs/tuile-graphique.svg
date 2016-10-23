@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="800px"
 	 height="600px" viewBox="0 0 800 600" enable-background="new 0 0 800 600" xml:space="preserve">
-<g id="Calque_1">
-	<rect x="437" y="475" fill="#C3EB6E" width="105" height="99"/>
-	<rect x="542" y="475" fill="#FD6991" width="104" height="99"/>
-	<rect x="646" y="475" fill="#F5E196" width="102" height="99"/>
-	<rect x="27" y="258" fill="none" width="353" height="305"/>
-	<text transform="matrix(1 0 0 1 27 292.3672)"><tspan x="0" y="0" fill="#FD6991" font-family="'Arial-BoldMT'" font-size="48">Titre</tspan><tspan x="104.016" y="0" font-family="'Arial-BoldMT'" font-size="48"> </tspan><tspan x="0" y="51" font-family="'Georgia'" font-size="18">Vivamus suscipit mi ac nisl bibendum, quis </tspan><tspan x="0" y="75" font-family="'Georgia'" font-size="18">ullamcorper urna dapibus. Curabitur a </tspan><tspan x="0" y="99" font-family="'Georgia'" font-size="18">luctus purus, id pharetra leo. Aliquam id </tspan><tspan x="0" y="123" font-family="'Georgia'" font-size="18">facilisis nulla. Fusce non </tspan><tspan x="198.967" y="123" fill="#C3EB6E" font-family="'Georgia'" font-size="18">finibus</tspan><tspan x="254.215" y="123" font-family="'Georgia'" font-size="18"> lectus. In </tspan><tspan x="0" y="147" font-family="'Georgia'" font-size="18">porta velit et lacus interdum lacinia. </tspan><tspan x="0" y="171" font-family="'Georgia'" font-size="18">Phasellus nec leo urna. In </tspan><tspan x="208.143" y="171" fill="#F5E196" font-family="'Georgia'" font-size="18">varius</tspan><tspan x="256.931" y="171" font-family="'Georgia'" font-size="18"> eu tortor at </tspan><tspan x="0" y="195" font-family="'Georgia'" font-size="18">suscipit.</tspan></text>
-	<rect x="-1" y="1" fill="none" width="800" height="172"/>
+<g id="Fond">
 	
 		<image overflow="visible" width="500" height="334" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAIBAQEBAQIBAQECAgICAgQDAgICAgUEBAMEBgUGBgYF
 BgYGBwkIBgcJBwYGCAsICQoKCgoKBggLDAsKDAkKCgr/2wBDAQICAgICAgUDAwUKBwYHCgoKCgoK
@@ -1624,8 +1618,13 @@ wTuE93EZJB/kaD8kWLZ/EDoF3sml1Wx5zDxSB3MPIWn/ADIOntIJT6eSGZ2AR80KN5b2nRL0j3pb
 pU0WCT6bhwVAcFJxngjTZyW2K6htDDxGhdTybOCNtnVkVy1YdcjrdSHoqHAhzGRkZxxovcXXhtfS
 fkal8V76TZMbpWJsdcd5tOUg5UB509gFlmSm4Wd9zKPGE95aEAZUSfvqZq5+qYNZKG1YabaVhvIG
 lOQqVzG4EclU6q0ll3ub4C/b6az5mBhwvWOzvFH8Rov8g8TcE9VGOrHIA1GOi6BNZCu0ZPOkGSnA
-phLdwfGi3NF8qPfeUc50hFku4UbLdOTx40iVRcqQruKffxnQnFuLpgqQQo+fOm3thFr5X//Z" transform="matrix(0.57 0 0 0.57 450.002 200.0015)">
+phLdwfGi3NF8qPfeUc50hFku4UbLdOTx40iVRcqQruKffxnQnFuLpgqQQo+fOm3thFr5X//Z" transform="matrix(1.5988 0 0 1.5988 -9.765625e-04 65.999)">
 	</image>
+</g>
+<g id="Logo_et_couleur">
+	<rect x="483.5" y="490.5" fill="#C3EB6E" stroke="#FFFFFF" stroke-miterlimit="10" width="98" height="91"/>
+	<rect x="581.5" y="490.5" fill="#FD6991" stroke="#FFFFFF" stroke-miterlimit="10" width="96" height="91"/>
+	<rect x="677.5" y="490.5" fill="#F5E196" stroke="#FFFFFF" stroke-miterlimit="10" width="94" height="91"/>
 	
 		<image overflow="visible" width="269" height="256" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ0AAAEACAYAAACpjCPWAAAgAElEQVR4nO19a3cTR7qu5x+w/wHz
 D9i/IJzPnLXCTuastYc9c8KQnNlrksngCQzZY3Mxl8BAuJjgZIBwcSAMYWJsJ5gAA9gmgC0ZsI25
@@ -1838,9 +1837,36 @@ DkYYzJgZtpyGg+U4yiPMCIMZsyJjVRUtsCoJM2aaxnQcJWA6DGbM9CynHDXdGesNhBLsOEVmzAxY
 bgOf6gxXxGAX2xSYGTOTlmurrw6vg/WRMGNGxnJl2QYrWwc6H6E25l0wY0bYQAqvBAuntzkSKa6L
 7enJjJnNlkuUupw8goMgcutpP0tmzKrKQAqvBJFrdFnY0sw8C2bMKFuu0rLewXL0URC5RpazYMbM
 gQZSeGX22ATqBJIlCib9ZsbMPZbraVmbrbwEu+0lieAgJLlmELn1zKNgxsxDltN9rM0dGdkMYrDb
-UE4kSz7tuRLwepCCq1lfCDNmzGoYETDDtf8PNZDHlLRwVE0AAAAASUVORK5CYII=" transform="matrix(0.7266 0 0 0.7266 -4.882813e-004 -9.765625e-004)">
+UE4kSz7tuRLwepCCq1lfCDNmzGoYETDDtf8PNZDHlLRwVE0AAAAASUVORK5CYII=" transform="matrix(0.3672 0 0 0.3672 29.2266 11)">
 	</image>
-	<rect x="497" y="13" fill="none" width="277" height="196"/>
+</g>
+<g id="Bloc_Texte">
+	<rect x="28.5" y="265.5" opacity="0.9" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="361" height="319"/>
+	<rect x="-1" y="1" fill="none" width="800" height="172"/>
+	<rect x="36" y="275" fill="none" width="353" height="317"/>
+	<text transform="matrix(1 0 0 1 36 309.3672)"><tspan x="0" y="0" fill="#FD6991" font-family="'Arial-BoldMT'" font-size="48">Bienvenue</tspan><tspan x="242.742" y="0" font-family="'Arial-BoldMT'" font-size="48"> </tspan><tspan x="0" y="51" font-family="'Georgia'" font-size="18">Fleuriste à Elbeuf sur Seine en </tspan><tspan x="0" y="75" font-family="'Georgia'" font-size="18">Seine-Maritime, nous concevons l&apos;ensemble </tspan><tspan x="0" y="99" font-family="'Georgia'" font-size="18">de nos réalisations sur place. Vos </tspan><tspan x="0" y="123" font-family="'Georgia'" font-size="18">commandes en 24 h dans nos boutiques ou </tspan><tspan x="0" y="147" font-family="'Georgia'" font-size="18">en 48 h en </tspan><tspan x="87.416" y="147" fill="#C3EB6E" font-family="'Georgia'" font-size="18">commande</tspan><tspan x="175.746" y="147" font-family="'Georgia'" font-size="18"> sur notre site. </tspan><tspan x="0" y="171" font-family="'Georgia'" font-size="18">N&apos;hésitez pas à nous contacter pour toutes </tspan><tspan x="0" y="195" font-family="'Georgia'" font-size="18">cérémonies, mariages, naissances, deuils, </tspan><tspan x="0" y="219" font-family="'Georgia'" font-size="18">baptêmes, anniversaires, communions et </tspan><tspan x="0" y="243" font-family="'Georgia'" font-size="18">autres, nous avons un large </tspan><tspan x="221.098" y="243" fill="#F5E196" font-family="'Georgia'" font-size="18">catalogue</tspan><tspan x="296.701" y="243" font-family="'Georgia'" font-size="18"> de </tspan><tspan x="0" y="267" font-family="'Georgia'" font-size="18">créations pour vous satisfaire. </tspan></text>
+	<rect x="155" y="30" fill="none" width="311" height="17"/>
+	<text transform="matrix(1 0 0 1 155 38.52)" font-family="'MyriadPro-Regular'" font-size="12">Projet fleuriste Le Langage des Fleurs - V1 - 14/10/2016  - JL </text>
+</g>
+<g id="Nav">
+	<rect x="161" y="62" fill="#FFFFFF" width="125" height="40"/>
+	<rect x="316.5" y="63.5" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="125" height="40"/>
+	<rect x="468.5" y="65.5" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="125" height="40"/>
+	<rect x="616.5" y="64.5" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="125" height="40"/>
+</g>
+<g id="Nav_texte" display="none">
+	<rect x="195.502" y="79.5" display="inline" fill="none" width="95" height="25"/>
+	
+		<text transform="matrix(0.9768 0 0 1 212.7983 89.0908)" display="inline" fill="#735A4B" font-family="'Georgia-Bold'" font-size="12.6857">ACCUEIL</text>
+	<rect x="316" y="80" display="inline" fill="none" width="95" height="25"/>
+	
+		<text transform="matrix(0.9768 0 0 1 321.4736 89.5908)" display="inline" fill="#735A4B" font-family="'Georgia-Bold'" font-size="12.6857">Catalogue </text>
+	<rect x="435" y="80" display="inline" fill="none" width="95" height="25"/>
+	
+		<text transform="matrix(0.9768 0 0 1 440.7734 89.5908)" display="inline" fill="#735A4B" font-family="'Georgia-Bold'" font-size="12.6857">Commande </text>
+	<rect x="555" y="80" display="inline" fill="none" width="95" height="25"/>
+	
+		<text transform="matrix(0.9768 0 0 1 570.1816 89.5908)" display="inline" fill="#735A4B" font-family="'Georgia-Bold'" font-size="12.6857">contact</text>
 </g>
 <g id="Repères">
 </g>
